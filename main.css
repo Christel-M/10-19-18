@@ -1,0 +1,26 @@
+html{
+  font-family: monospace;
+}
+
+.navbar{
+  background-image: url();
+  text-align: center;
+
+}
+
+.container{
+    width: fit-content;
+}
+
+.img-grid{
+  display: grid;
+  grid-template: repeat(2, 250px) / repeat(3, 250px);
+  grid-gap: 5px;
+  justify-content: center;
+}
+
+
+
+.footer{
+
+}
